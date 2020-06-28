@@ -1,4 +1,4 @@
 #example repo
-This is for Training
+This is for Learning Purpose Only
 
 Updated version
